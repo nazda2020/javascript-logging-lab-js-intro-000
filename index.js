@@ -1,1 +1,2 @@
-console.log("i'm user")
+console.log("hello,""i'm user")
+console.error
