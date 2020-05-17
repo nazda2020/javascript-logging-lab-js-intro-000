@@ -1,4 +1,4 @@
-console.log("hello,""i'm user")
-console.error("test")
-console.info("nani")
-console.warn("test")
+console.log()
+console.error()
+console.info()
+console.warn()
