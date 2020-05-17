@@ -1,3 +1,3 @@
-console.error()
-console.info()
-console.warn()
+console.error("halp!")
+console.info("halp!")
+console.warn("halp!")
